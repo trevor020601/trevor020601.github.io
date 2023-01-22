@@ -88,7 +88,7 @@ body {
 .form-box {
     max-width: 1000px;
     margin: auto;
-    padding: 60px;
+    padding: 50px;
     background: #ffffff;
     border: 10px solid #f2f2f2;
 }
@@ -99,4 +99,8 @@ h1, p {
   
 input, textarea {
     width: 100%;
+}
+
+.form-box ul {
+    float: right;
 }
