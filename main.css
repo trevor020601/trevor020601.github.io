@@ -76,3 +76,7 @@
         flex: 1;
     }
 }
+
+.form-group {
+    width: 50%;
+}
