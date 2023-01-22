@@ -83,20 +83,20 @@
 
 body {
     background: #f7f7f7;
-  }
+}
   
-  .form-box {
-    max-width: 500px;
+.form-box {
+    max-width: 1000px;
     margin: auto;
-    padding: 50px;
+    padding: 60px;
     background: #ffffff;
     border: 10px solid #f2f2f2;
-  }
+}
   
-  h1, p {
+h1, p {
     text-align: center;
-  }
+}
   
-  input, textarea {
+input, textarea {
     width: 100%;
-  }
+}
