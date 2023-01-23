@@ -89,6 +89,12 @@
     float: left;
 }
 
+.repo-card {
+    align-items: center;
+    height: 294px;
+    width: 1000px;
+}
+
 body {
     background: #f7f7f7;
 }
